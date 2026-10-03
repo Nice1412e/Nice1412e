@@ -1,7 +1,7 @@
 <!--
 README de perfil — Felipe Pereira da Conceição
 GitHub: https://github.com/Nice1412e
-Tema: preto + azul | minimalista
+Estilo: preto + azul | minimalista
 -->
 
 <div align="center">
@@ -9,7 +9,7 @@ Tema: preto + azul | minimalista
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050A13,45:0D1B2A,100:0A3D62&height=220&section=header&text=Felipe%20Pereira%20da%20Concei%C3%A7%C3%A3o&fontSize=37&fontColor=E6EDF3&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20FullStack%20%7C%20Est%C3%A1gio&descAlignY=58&descSize=18"/>
 
 <a href="https://github.com/Nice1412e">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Desenvolvedor+FullStack+%7C+Est%C3%A1gio;PHP+%E2%80%A2+PostgreSQL+%E2%80%A2+JavaScript;Construindo%2C+aprendendo+e+evoluindo+na+pr%C3%A1tica." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=58A6FF&center=true&vCenter=true&width=760&lines=Desenvolvedor+FullStack+%7C+Est%C3%A1gio;PHP+%E2%80%A2+PostgreSQL+%E2%80%A2+JavaScript;Construindo%2C+aprendendo+e+evoluindo+na+pr%C3%A1tica." alt="Typing SVG"/>
 </a>
 
 </div>
@@ -20,7 +20,7 @@ Tema: preto + azul | minimalista
 
 Sou **Felipe Pereira da Conceição**, Desenvolvedor **FullStack em estágio**.
 
-Gosto de transformar conhecimento em projetos práticos e usar cada projeto como uma oportunidade para melhorar meu código e entender melhor todo o processo de desenvolvimento de uma aplicação.
+Gosto de transformar conhecimento em projetos práticos e utilizar cada projeto como uma oportunidade para melhorar meu código, aprender novas soluções e entender melhor todo o processo de desenvolvimento de uma aplicação.
 
 Atualmente trabalho e estudo tecnologias voltadas ao desenvolvimento web, principalmente **PHP**, **PostgreSQL** e **JavaScript**, utilizando **Git** para versionamento e **Composer** no ecossistema PHP.
 
@@ -42,19 +42,27 @@ $felipe = [
 
 <br>
 
-## `> stack`
+---
+
+## `> tecnologias`
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP"/>
+
 <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>
+
 <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+
 <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
+
 <img src="https://img.shields.io/badge/Composer-0D1117?style=for-the-badge&logo=composer&logoColor=8993BE" alt="Composer"/>
 
 </div>
 
 <br>
+
+---
 
 ## `> projetos`
 
@@ -78,7 +86,11 @@ Aplicação web que consulta informações meteorológicas a partir da busca por
 
 [![Repositório](https://img.shields.io/badge/Ver_repositório-0D1117?style=flat-square&logo=github&logoColor=58A6FF)](https://github.com/Nice1412e/Site-climaAPI)
 
+<br>
+
 ### 💻 Projeto Site FATEC
+
+Projeto desenvolvido durante meus estudos na FATEC.
 
 [![Repositório](https://img.shields.io/badge/Ver_repositório-0D1117?style=flat-square&logo=github&logoColor=58A6FF)](https://github.com/Nice1412e/Projeto-site-Fatec)
 
@@ -90,13 +102,15 @@ Aplicação web que consulta informações meteorológicas a partir da busca por
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Nice1412e&show_icons=true&bg_color=0D1117&border_color=21262D&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&include_all_commits=true" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Nice1412e&show_icons=true&bg_color=0D1117&border_color=21262D&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&include_all_commits=true&hide_rank=true" alt="GitHub Stats"/>
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nice1412e&layout=compact&langs_count=8&bg_color=0D1117&border_color=21262D&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
 
 </div>
 
 <br>
+
+---
 
 ## `> streak`
 
@@ -108,54 +122,41 @@ Aplicação web que consulta informações meteorológicas a partir da busca por
 
 <br>
 
-## `> atividade`
+---
+
+## `> desenvolvimento`
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nice1412e&bg_color=0D1117&color=8B949E&line=58A6FF&point=E6EDF3&area=true&area_color=1F6FEB&hide_border=true&custom_title=Atividade%20no%20GitHub" alt="GitHub Activity Graph"/>
+### FullStack Development
+
+`PHP` • `PostgreSQL` • `JavaScript` • `Git` • `Composer`
+
+<br>
+
+<a href="https://github.com/Nice1412e?tab=followers">
+  <img src="https://img.shields.io/github/followers/Nice1412e?label=Seguidores&style=for-the-badge&color=1F6FEB&labelColor=0D1117&logo=github&logoColor=FFFFFF" alt="GitHub Followers"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Nice1412e&label=Visualiza%C3%A7%C3%B5es&style=for-the-badge&color=1F6FEB" alt="Profile Views"/>
 
 </div>
 
 <br>
 
-## `> troféus`
+### `> explore_meus_projetos`
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Nice1412e&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub Trophies"/>
+<a href="https://github.com/Nice1412e/Projeto-site-Fatec">
+  <img src="https://img.shields.io/badge/Projeto_Site_FATEC-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Projeto Site FATEC"/>
+</a>
+
+<a href="https://github.com/Nice1412e/Site-climaAPI">
+  <img src="https://img.shields.io/badge/Site_Clima_API-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Site Clima API"/>
+</a>
 
 </div>
-
-<br>
-
-## `> contribuições`
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Nice1412e/Nice1412e/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Nice1412e/Nice1412e/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/Nice1412e/Nice1412e/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-</div>
-
-<!--
-A Snake acima precisa ser gerada no repositório Nice1412e/Nice1412e
-por uma GitHub Action utilizando Platane/snk e publicada no branch "output".
-
-Exemplo de arquivo:
-.github/workflows/snake.yml
--->
 
 <br>
 
@@ -181,17 +182,28 @@ Exemplo de arquivo:
 
 <br>
 
+---
+
 <div align="center">
 
-<sub>
-  <code>build • learn • improve • repeat</code>
-</sub>
+<code>build • learn • improve • repeat</code>
 
 <br><br>
 
-<strong>Felipe Pereira da Conceição</strong><br>
+<strong>Felipe Pereira da Conceição</strong>
+
+<br>
+
 <sub>Desenvolvedor FullStack • Estágio</sub>
 
+<br><br>
+
+<sub>
+Obrigado pela visita. Explore meus repositórios e acompanhe minha evolução por aqui.
+</sub>
+
 </div>
+
+<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A3D62,50:0D1B2A,100:050A13&height=120&section=footer"/>
