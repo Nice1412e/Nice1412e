@@ -64,7 +64,69 @@ $felipe = [
 
 ---
 
-## `> projetos`
+## `> projetos_em_destaque`
+
+### 🧠 Site Profissional para Psicólogo
+
+Site institucional **one-page** desenvolvido para um profissional de psicologia clínica.
+
+O projeto apresenta o profissional, seus serviços, dúvidas frequentes e formas de contato em uma interface responsiva e de navegação fluida.
+
+**Principais recursos:**
+
+`HTML5` • `CSS3` • `JavaScript`
+
+- Layout responsivo para desktop, tablet e celular
+- Navegação com rolagem suave
+- Menu fixo inteligente
+- Destaque automático da seção atual
+- FAQ interativo
+- Links diretos de contato
+- Efeitos de interação e hover
+- Desenvolvimento sem frameworks
+
+<div align="center">
+
+<a href="https://github.com/Nice1412e/Projeto-site-Fatec">
+  <img src="https://img.shields.io/badge/Ver_repositório-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Projeto Site FATEC"/>
+</a>
+
+</div>
+
+<br>
+
+---
+
+### 🌦️ Clima Tempo Web
+
+Aplicação web desenvolvida para consultar **informações meteorológicas em tempo real** através da busca pelo nome de uma cidade.
+
+A aplicação realiza uma requisição para a **API OpenWeatherMap** e apresenta as principais condições climáticas diretamente na interface.
+
+**Principais recursos:**
+
+`HTML5` • `CSS3` • `JavaScript` • `OpenWeatherMap API`
+
+- Pesquisa por cidade
+- Temperatura em graus Celsius
+- Condição atual do clima
+- Identificação da cidade pesquisada
+- Tratamento de cidades inválidas
+- Consumo de API externa
+
+<div align="center">
+
+<a href="https://github.com/Nice1412e/Site-climaAPI">
+  <img src="https://img.shields.io/badge/Ver_repositório-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Site Clima API"/>
+</a>
+
+</div>
+
+<br>
+
+---
+
+## `> repositórios`
 
 <div align="center">
 
@@ -77,22 +139,6 @@ $felipe = [
 </a>
 
 </div>
-
-<br>
-
-### 🌦️ Site Clima API
-
-Aplicação web que consulta informações meteorológicas a partir da busca por uma cidade, utilizando uma API externa para retornar os dados climáticos.
-
-[![Repositório](https://img.shields.io/badge/Ver_repositório-0D1117?style=flat-square&logo=github&logoColor=58A6FF)](https://github.com/Nice1412e/Site-climaAPI)
-
-<br>
-
-### 💻 Projeto Site FATEC
-
-Projeto desenvolvido durante meus estudos na FATEC.
-
-[![Repositório](https://img.shields.io/badge/Ver_repositório-0D1117?style=flat-square&logo=github&logoColor=58A6FF)](https://github.com/Nice1412e/Projeto-site-Fatec)
 
 <br>
 
@@ -144,16 +190,18 @@ Projeto desenvolvido durante meus estudos na FATEC.
 
 <br>
 
-### `> explore_meus_projetos`
+---
+
+## `> explore_meus_projetos`
 
 <div align="center">
 
 <a href="https://github.com/Nice1412e/Projeto-site-Fatec">
-  <img src="https://img.shields.io/badge/Projeto_Site_FATEC-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Projeto Site FATEC"/>
+  <img src="https://img.shields.io/badge/🧠_Site_Psicologia-0D1117?style=for-the-badge&logoColor=58A6FF" alt="Site Psicologia"/>
 </a>
 
 <a href="https://github.com/Nice1412e/Site-climaAPI">
-  <img src="https://img.shields.io/badge/Site_Clima_API-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Site Clima API"/>
+  <img src="https://img.shields.io/badge/🌦️_Clima_Tempo_Web-0D1117?style=for-the-badge&logoColor=58A6FF" alt="Clima Tempo Web"/>
 </a>
 
 </div>
