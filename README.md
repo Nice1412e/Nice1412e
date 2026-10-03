@@ -97,6 +97,58 @@ Aplicação web que consulta informações meteorológicas a partir da busca por
 </div>
 
 <br>
+
+## `> streak`
+
+<div align="center">
+
+<img width="700" src="https://streak-stats.demolab.com?user=Nice1412e&background=0D1117&border=21262D&stroke=21262D&ring=58A6FF&fire=1F6FEB&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak"/>
+
+</div>
+
+<br>
+
+## `> atividade`
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nice1412e&bg_color=0D1117&color=8B949E&line=58A6FF&point=E6EDF3&area=true&area_color=1F6FEB&hide_border=true&custom_title=Atividade%20no%20GitHub" alt="GitHub Activity Graph"/>
+
+</div>
+
+<br>
+
+## `> troféus`
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Nice1412e&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub Trophies"/>
+
+</div>
+
+<br>
+
+## `> contribuições`
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Nice1412e/Nice1412e/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Nice1412e/Nice1412e/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/Nice1412e/Nice1412e/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+</div>
+
 <!--
 A Snake acima precisa ser gerada no repositório Nice1412e/Nice1412e
 por uma GitHub Action utilizando Platane/snk e publicada no branch "output".
